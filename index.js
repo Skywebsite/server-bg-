@@ -27,7 +27,7 @@ const upload = multer({
 
 // CORS - Allow frontend URLs
 const allowedOrigins = [
-  'https://bg-lac.vercel.app',
+  'https://skypixles-vfbp.vercel.app',
   'http://localhost:5173',
   'http://localhost:3000',
   'http://localhost:4173'
